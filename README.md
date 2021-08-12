@@ -25,8 +25,5 @@
   <a href="https://github.com/alan-1990/alan-1990" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://dev.to" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511947854743?&text=Whats%20do%20Alan" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
-
-  ![Snake animation](https://github.com/alan-1990/alan-1990/blob/output/github-contribution-grid-snake.svg)
-  
+ 
  </div>
