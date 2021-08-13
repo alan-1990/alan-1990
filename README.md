@@ -5,7 +5,7 @@
 - 💬 Sempre que eu puder colaborar em algo, não deixem de entrar em contato
 - 📫 Para contato-> alan.pontes1@gmail.com
 - 😄 Vamos codar!
-- :star: Agradecimento especial ao /robsonpontes pelas orientações e ajuda! 
+- :star: Vamos codar! 
 
  <div>
   <a href="https://github.com/alan-1990">
