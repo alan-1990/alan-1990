@@ -4,7 +4,8 @@
 - 🌱 Eu estou estudando nosso amigo PHP, HTML, CSS e tambem Laravel.
 - 💬 Sempre que eu puder colaborar em algo, não deixem de entrar em contato
 - 📫 Para contato-> alan.pontes1@gmail.com
-- 😄 Pronouns: Ele/dele.
+- 😄 Vamos codar!
+- :star: Agradecimento especial ao /robsonpontes pelas orientações e ajuda! 
 
  <div>
   <a href="https://github.com/alan-1990">
