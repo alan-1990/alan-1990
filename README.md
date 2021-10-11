@@ -5,7 +5,7 @@
 - 💬 Sempre que eu puder colaborar em algo, não deixem de entrar em contato
 - 📫 Para contato-> alan.nasc1990@gmail.com
 - 😄 Vamos codar!
-- :star: Vamos codar! 
+ 
 
  <div>
   <a href="https://github.com/alan-1990">
@@ -21,7 +21,7 @@
    ##
  
 <div> 
-  <a href = "mailto:alan.pontes1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alan.nasc1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alan_apn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/alan-1990/alan-1990" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://dev.to" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
