@@ -1,6 +1,5 @@
 ### Olá Pessoal, tudo belezaaa??? 👋
 
-- 🔭 Atualmente eu não trabalho com tecnologia (ainda hehehe)
 - 🌱 Eu estou estudando nosso amigo PHP, HTML, CSS e tambem Laravel.
 - 💬 Sempre que eu puder colaborar em algo, não deixem de entrar em contato
 - 📫 Para contato-> alan.nasc1990@gmail.com
